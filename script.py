@@ -1,3 +1,5 @@
+# install libraries
+!pip install pandas
 # Load libraries
 import pandas as pd
 import numpy as np
